@@ -285,11 +285,5 @@ const johan = {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer"/>
-</div>
-"""
-
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("File README.md berhasil dibuat!")
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" wid
+  
