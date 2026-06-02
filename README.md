@@ -143,5 +143,3 @@ const johan = {
 
 with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
     f.write(readme_content)
-
-print("File README.md berhasil dibuat!")
